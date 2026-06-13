@@ -6,7 +6,7 @@ import keiyoushi.network.rateLimit
 class Harimanga :
     Madara(
         "Harimanga",
-        "https://harimanga.me",
+        "https://harimanga.co.uk",
         "en",
     ) {
     override val client = super.client.newBuilder()
